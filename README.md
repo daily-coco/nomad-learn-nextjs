@@ -1,0 +1,2 @@
+# nomad-learn-nextjs
+- setting
