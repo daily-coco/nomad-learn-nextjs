@@ -18,11 +18,15 @@ npm init -y
 ```
 npm install react@latest next@latest react-dom@latest
 ```
-4. run Server
+4. Script
 ```
-npm run dev 
+dev :  npm run dev 
+build : npm run build 
 ```
 
-## Stack
+
+## Tech Stack
 - Next.js
-- Typescript
+- TypeScript 
+- React Server Components
+- CSS Modules
