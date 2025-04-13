@@ -1,3 +1,4 @@
+import {API_URL} from "../../lib/api"
 import Movie from "../../components/movie";
 import styles from "../../styles/home.module.css";
 
@@ -6,7 +7,7 @@ export const metadata = {
 };
 
 // URL
-export const API_URL = "https://nomad-movies.nomadcoders.workers.dev/movies";
+// export const API_URL = "https://nomad-movies.nomadcoders.workers.dev/movies";
 
 // fetch Function
 async function getMovies() {
